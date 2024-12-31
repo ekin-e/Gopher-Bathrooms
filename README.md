@@ -21,3 +21,5 @@
 # Video Demo
 https://github.com/user-attachments/assets/0959cee0-30cb-4c92-9fde-5bf7161520db
 
+# Contributions
+Equal distribution of contributions. Everybody did their own user research, testing, cognitive walkthrough, open coding, qualitative and quantitative analysis, personas, and a storyboard. The prototypes were also done equally.
